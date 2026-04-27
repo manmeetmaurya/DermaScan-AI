@@ -150,14 +150,14 @@ If you haven't trained the model yet, the app will run in **Demo Mode** with sim
 ---
 
 ## 🩺 Detectable Diseases
-- Acne
-- Eczema (Atopic Dermatitis)
-- Psoriasis
-- Melanoma (Skin Cancer)
-- Ringworm (Tinea Corporis)
-- Rosacea
-- Vitiligo
+- Athlete-foot
+- Cellulitis
 - Chickenpox
+- Cutaneous-larva-migrans
+- Impetigo
+- Nail-fungus
+- Ringworm
+- Shingles
 
 ---
 
